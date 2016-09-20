@@ -12,7 +12,7 @@
     <groupId>org.wildfly.swarm.examples</groupId>
     <artifactId>examples-jpa</artifactId>
     <version>2016.9</version>
-    <relativePath>../</relativePath>
+    <relativePath>../pom.xml</relativePath>
   </parent>
 
   <artifactId>jpa-shrinkwrap</artifactId>
